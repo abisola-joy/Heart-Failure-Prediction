@@ -4,14 +4,17 @@ Heart failure (HF) is a critical health condition where the heart fails to pump 
 
 ## Key Tasks:
 
--**Exploratory Data Analysis (EDA)**: Conduct EDA to identify and handle missing data, perform data preprocessing, and analyse descriptive statistics. Visualize data dependencies through various plots and draw conclusions.
+- **Exploratory Data Analysis (EDA)**: Conduct EDA to identify and handle missing data, perform data preprocessing, and analyse descriptive statistics. Visualize data dependencies through various plots and draw conclusions.
 
--**Classification I**: Split the dataset into training and testing sets, then fit machine learning algorithms including Naïve Bayes, Logistic Regression, Support Vector Machine, Random Forest classifier, K-Nearest Neighbour, and Multi-Layer Perceptron Neural Networks. Evaluate model performance using test data and report accuracy, precision, recall, and F1-Score.
+- **Classification I**: Split the dataset into training and testing sets, then fit machine learning algorithms including Naïve Bayes, Logistic Regression, Support Vector Machine, Random Forest classifier, K-Nearest Neighbour, and Multi-Layer Perceptron Neural Networks. Evaluate model performance using test data and report accuracy, precision, recall, and F1-Score.
 
--**Classification II**: Investigate class imbalance problem and apply techniques to balance class distribution. Build classification models using machine learning algorithms with the balanced dataset and compare performance metrics with Classification I.
+- **Classification II**: Investigate class imbalance problem and apply techniques to balance class distribution. Build classification models using machine learning algorithms with the balanced dataset and compare performance metrics with Classification I.
 
--**Feature Selection**: Analyse feature significance using statistical tests like Mann-Whitney and Chi-Square tests. Rank features based on significance and plot feature importance graph from Random Forest Classifier to aid in feature selection.
+- **Feature Selection**: Analyse feature significance using statistical tests like Mann-Whitney and Chi-Square tests. Rank features based on significance and plot feature importance graph from Random Forest Classifier to aid in feature selection.
 
--**Classification III**: Utilize selected features to build classification models using machine learning algorithms. Evaluate model performance and compare results with previous classification tasks.
+- **Classification III**: Utilize selected features to build classification models using machine learning algorithms. Evaluate model performance and compare results with previous classification tasks.
 
 This project aims to utilise advanced programming and machine learning techniques to contribute to the prediction and analysis of heart failure cases, facilitating better decision-making in healthcare.
+
+## Acknowledgements
+- This project was developed as part of Sheffield Hallam University's course on Big Data Analytics.
